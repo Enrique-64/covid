@@ -3,6 +3,7 @@
 */.ipynb_checkpoints/*
 notebooks/2_v1_Procesamiento_Datos.ipynb
 notebooks/2_v2_Procesamiento_Datos.ipynb
+notebooks/3_1_v1_Dataset_covid.ipynb
 notebooks/3_2_v1_Dataset_ecdc.ipynb
 notebooks/3_n_v1_Dataset_compact.ipynb
 notebooks/copia_2_EDA.ipynb
