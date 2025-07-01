@@ -8,7 +8,7 @@ Proyecto de análisis de datos del COVID‑19 utilizando Python y Jupyter Lab a 
 
 - `notebooks/`
   - **1_v1_Exploracion_Datos.ipynb**: comparación de varias fuentes de datos y elección de OWID.
-  - **2_v3_Procesamiento_Datos.ipynb**: exploración de todos los datasets OWID relacionados con COVID‑19 y selección de los más relevantes.
+  - **2_v3_Exploracion_Datasets_OWID.ipynb**: exploración de todos los datasets OWID relacionados con COVID‑19 y selección de los más relevantes.
   - **3_1_v1_Dataset_covid.ipynb**: procesamiento completo del dataset más importante de OWID sobre el COVID-19:
     1. Limpieza y filtrado de variables
     2. Creación de nuevas variables
@@ -99,7 +99,7 @@ print("Paquetes owid encontrados:", owid_packages)
 2. Ejecuta los notebooks en orden:
 
 - 1_v1_Exploracion_Datos.ipynb
-- 2_v3_Procesamiento_Datos.ipynb
+- 2_v3_Exploracion_Datasets_OWID.ipynb
 - 3_1_v1_Dataset_covid.ipynb
 
 ## Resultados
